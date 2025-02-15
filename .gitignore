@@ -1,4 +1,5 @@
 .idea
+.gitignore
 data
 newData
 small_data
